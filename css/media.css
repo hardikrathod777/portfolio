@@ -1,0 +1,591 @@
+@media(max-width:576px){
+    .continer{
+        width: 100%;
+    }
+    .w-xs-1{
+        width: 8.33% ;
+    }
+    
+    .w-xs-2{
+        width: 16.66%;
+    }
+    
+    .w-xs-3{
+        width: 25%;
+    }
+    
+    .w-xs-4{
+        width:33.33%;
+    }
+    
+    .w-xs-5{
+        width: 41.66%;
+    }
+    
+    .w-xs-6{
+        width: 50%;
+    }
+    
+    .w-xs-7{
+        width: 58.33%;
+    }
+    
+    .w-xs-8{
+        width: 66.66%;
+    }
+    
+    .w-xs-9{
+        width: 75%;
+    }
+    
+    .w-xs-10{
+        width: 83.33%;
+    }
+    
+    .w-xs-11{
+        width: 91.66%;
+    }
+    
+    .w-xs-12{
+        width: 100%;
+    }
+    .img-height{
+        height: 471px !important;
+    }
+    .margin-l{
+        margin-left: 0px !important;
+    }
+    .s-f-size{
+        font-size: 40px !important;
+    }
+    .width-sl{
+        width: 300px !important;
+    }
+    .co-f{
+        font-size: 20px !important;
+    }
+    .menu-f{
+        font-size: 150px !important;
+    }
+    .rotate-s{
+        transform: rotate(0deg) !important;
+    }
+    .p-s{
+        padding: 80px !important;
+    }
+
+    .card-width{
+        width: 460px !important;
+        margin-left: 50px !important;
+        margin-bottom: 10px !important;
+    }
+    .margin-p{
+        margin-top: 10px;
+        margin-right: 10px !important;
+        margin-bottom: 10px !important;
+    }
+    .con-margin{
+        margin-top: 150px !important;
+    }
+    .map{
+        width: 570px !important;
+    }
+    
+}
+@media (min-width:576px) {
+    .continer{
+        width: 540px;
+    }
+
+    .w-s-1{
+        width: 8.33% ;
+    }
+    
+    .w-s-2{
+        width: 16.66%;
+    }
+    
+    .w-s-3{
+        width: 25%;
+    }
+    
+    .w-s-4{
+        width:33.33%;
+    }
+    
+    .w-s-5{
+        width: 41.66%;
+    }
+    
+    .w-s-6{
+        width: 50%;
+    }
+    
+    .w-s-7{
+        width: 58.33%;
+    }
+    
+    .w-s-8{
+        width: 66.66%;
+    }
+    
+    .w-s-9{
+        width: 75%;
+    }
+    
+    .w-s-10{
+        width: 83.33%;
+    }
+    
+    .w-s-11{
+        width: 91.66%;
+    }
+    
+    .w-s-12{
+        width: 100%;
+    }
+    .img-height{
+        height: 480px !important;
+    }
+    .margin-l{
+        margin-left: 0px !important;
+    }
+    .s-f-size{
+        font-size: 40px !important;
+    }
+    .width-sl{
+        width: 300px !important;
+    }
+    .co-f{
+        font-size: 20px !important;
+    }
+    .menu-f{
+        font-size: 150px !important;
+    }
+    .rotate-s{
+        transform: rotate(0deg) !important;
+    }
+    .p-s{
+        padding: 70px !important;
+    }
+    .card-width{
+        width: 460px !important;
+        margin-left: 30px !important;
+        margin-bottom: 10px !important;
+    }
+    .con-margin{
+        margin-top: 150px !important;
+    }
+    .map{
+        width: 577px !important;
+    }
+}
+@media(min-width:768px){
+    .continer{
+        width: 720px;
+    }
+
+    .w-m-1{
+        width: 8.33% ;
+    }
+    
+    .w-m-2{
+        width: 16.66%;
+    }
+    
+    .w-m-3{
+        width: 25%;
+    }
+    
+    .w-m-4{
+        width:33.33%;
+    }
+    
+    .w-m-5{
+        width: 41.66%;
+    }
+    
+    .w-m-6{
+        width: 50%;
+    }
+    
+    .w-m-7{
+        width: 58.33%;
+    }
+    
+    .w-m-8{
+        width: 66.66%;
+    }
+    
+    .w-m-9{
+        width: 75%;
+    }
+    
+    .w-m-10{
+        width: 83.33%;
+    }
+    
+    .w-m-11{
+        width: 91.66%;
+    }
+    .w-m-12{
+        width: 100%;
+    }
+    .img-height{
+        height: 480px !important;
+    }
+    .margin-l{
+        margin-left: 50px !important;
+    }
+    .s-f-size{
+        font-size: 50px !important;
+    }
+    .width-sl{
+        width: 360px !important;
+    }
+    .co-f{
+        font-size: 20px !important;
+    }
+    .menu-f{
+        font-size: 220px !important;
+    }
+    
+    .contect-mt{
+        margin-top: 6% !important;
+    }
+    .rotate1-p{
+        transform: rotate(0deg) !important;
+    }
+    .p-md{
+        padding:0px 100px !important;
+    }
+    .card-width{
+        width: 230px !important;
+        margin-left: 0px !important;
+        margin-bottom: 10px !important;
+    }
+    .map{
+        width: 768px !important;
+    }
+}
+
+@media(min-width:992px){
+    .continer{
+        width: 960px;
+    }
+    
+    .w-l-1{
+        width: 8.33% ;
+    }
+    
+    .w-l-2{
+        width: 16.66%;
+    }
+    
+    .w-l-3{
+        width: 25%;
+    }
+    
+    .w-l-4{
+        width:33.33%;
+    }
+    
+    .w-l-5{
+        width: 41.66%;
+    }
+    
+    .w-l-6{
+        width: 50%;
+    }
+    
+    .w-l-7{
+        width: 58.33%;
+    }
+    
+    .w-l-8{
+        width: 66.66%;
+    }
+    
+    .w-l-9{
+        width: 75%;
+    }
+    
+    .w-l-10{
+        width: 83.33%;
+    }
+    
+    .w-l-11{
+        width: 91.66%;
+    }
+    
+    .w-l-12{
+        width: 100%;
+    }
+    .img-height{
+        height: 540px !important;
+    }
+    .margin-l{
+        margin-left: 30px !important;
+    }
+    .s-f-size{
+        font-size: 50px !important;
+    }
+    .width-sl{
+        width: 400px !important;
+    }
+    .co-f{
+        font-size: 20px !important;
+    }
+    .menu-f{
+        font-size: 220px !important;
+    }
+    
+    .contect-mt{
+        margin-top: 6% !important;
+    }
+
+    .margin-i{
+        margin-left: 250px;
+    }
+    .menu-li{
+        font-size: 30px !important;
+    }
+
+    .menu-con{
+        margin-left: 10px !important;
+    }
+    .br-width{
+        width: 400px !important;
+    }
+    .width-p{
+        width: 400px;
+    }
+    .p-s{
+        padding: 0 !important;
+    }
+    .width-box{
+        width: 490px !important;
+    }
+    .p-md{
+        padding: 0px 50px !important;
+    }
+    .rotate1-p{
+        transform: rotate(-10deg) !important;
+    }
+    .rotate2-p{
+        transform: rotate(10deg) !important;
+    }
+    .p-s{
+        padding: 80px 80px 80px 0px !important;
+    }
+    .card-width{
+        width: 290px !important;
+        margin-left: 0px !important;
+        margin-bottom: 10px !important;
+    }
+    .margin-p{
+        margin-right: 60px !important;
+    }
+    .map{
+        width: 992px !important;
+    }
+    
+}
+
+@media(min-width:1200px){
+
+    .w-xl-1{
+        width: 8.33% ;
+    }
+    
+    .w-xl-2{
+        width: 16.66%;
+    }
+    
+    .w-xl-3{
+        width: 25%;
+    }
+    
+    .w-xl-4{
+        width:33.33%;
+    }
+    
+    .w-xl-5{
+        width: 41.66%;
+    }
+    
+    .w-xl-6{
+        width: 50%;
+    }
+    
+    .w-xl-7{
+        width: 58.33%;
+    }
+    
+    .w-xl-8{
+        width: 66.66%;
+    }
+    
+    .w-xl-9{
+        width: 75%;
+    }
+    
+    .w-xl-10{
+        width: 83.33%;
+    }
+    
+    .w-xl-11{
+        width: 91.66%;
+    }
+    
+    .w-xl-12{
+        width: 100%;
+    }
+    .img-height{
+        height: 620px !important;
+    }
+    .contect-mt{
+        margin-top: 10% !important;
+    }
+    
+    .follow-top{
+        top: 50% !important;
+    }
+
+    .width-box{
+        width: 460px !important;
+    }
+    .p-md{
+        padding: 50px 80px 40px 30px !important;
+    }
+    .p-s{
+        padding: 80px 80px 80px 0px !important;
+    }
+    .card-width{
+        width: 340px !important;
+        margin-left: 0px !important;
+        margin-bottom: 10px !important;
+    }
+    .map{
+        width: 1200px !important;
+    }
+}
+
+@media(min-width:1400px){
+    .w-xxl-1{
+        width: 8.33% ;
+    }
+    
+    .w-xxl-2{
+        width: 16.66%;
+    }
+    
+    .w-xxl-3{
+        width: 25%;
+    }
+    
+    .w-xxl-4{
+        width:33.33%;
+    }
+    
+    .w-xxl-5{
+        width: 41.66%;
+    }
+    
+    .w-xxl-6{
+        width: 50%;
+    }
+    
+    .w-xxl-7{
+        width: 58.33%;
+    }
+    
+    .w-xxl-8{
+        width: 66.66%;
+    }
+    
+    .w-xxl-9{
+        width: 75%;
+    }
+    
+    .w-xxl-10{
+        width: 83.33%;
+    }
+    
+    .w-xxl-11{
+        width: 91.66%;
+    }
+    
+    .w-xxl-12{
+        width: 100%;
+    }
+    .img-height{
+        height: 800px !important;
+    }
+    .margin-i{
+        margin-left: 35% !important;
+    }
+
+    .contect-mt{
+        margin-top: 13% !important;
+    }
+    .s-f-size{
+        font-size: 80px !important;
+        font-weight: 350 !important;
+    }
+
+    .width-sl{
+        width: 650px !important;
+    }
+
+    .m-mr{
+        margin-left: 10% !important;
+    }
+
+    .margin-l{
+        margin-left: 15% !important;
+    }
+
+    .menu-f{
+        font-size: 330px !important;
+    }
+
+    .br-width{
+        width: 850px !important;
+    }
+
+    .menu-li{
+        font-size: 50px !important;
+    }
+
+    .menu-con{
+        margin-left: 50px !important;
+    }
+    .width-box{
+        width: 680px !important;
+    }
+    .p-s{
+        padding: 80px 0px 80px 0px !important;
+    }
+    .card-width{
+        width: 360px !important;
+        margin-left: 20px !important;
+        margin-bottom: 0px !important;
+    }
+    .margin-p{
+        margin-right: 200px !important;
+    }
+    .con-margin{
+        margin-top: 200px !important;
+    }
+    .map{
+        width: 1519px !important;
+    }
+}
+
+
+
+
+
+
+
